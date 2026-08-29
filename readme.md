@@ -1,2 +1,2 @@
 angel leonel: lider
-angel loenel 2: brancher
+angel leonel 2: brancher
